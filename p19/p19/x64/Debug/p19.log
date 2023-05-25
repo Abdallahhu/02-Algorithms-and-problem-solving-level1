@@ -1,0 +1,4 @@
+﻿  p19.cpp
+F:\Advance Programming\Algorthem and solve problem\p19\p19\p19.cpp(9,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Advance Programming\Algorthem and solve problem\p19\p19\p19.cpp(15,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  p19.vcxproj -> F:\Advance Programming\Algorthem and solve problem\p19\x64\Debug\p19.exe

@@ -1,0 +1,4 @@
+﻿  p21.cpp
+F:\Advance Programming\Algorthem and solve problem\p21\p21\p21.cpp(7,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Advance Programming\Algorthem and solve problem\p21\p21\p21.cpp(12,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  p21.vcxproj -> F:\Advance Programming\Algorthem and solve problem\p21\x64\Debug\p21.exe
