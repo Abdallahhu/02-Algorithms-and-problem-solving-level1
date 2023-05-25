@@ -1,0 +1,4 @@
+﻿  p22.cpp
+F:\Advance Programming\Algorthem and solve problem\p22\p22\p22.cpp(7,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Advance Programming\Algorthem and solve problem\p22\p22\p22.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  p22.vcxproj -> F:\Advance Programming\Algorthem and solve problem\p22\x64\Debug\p22.exe

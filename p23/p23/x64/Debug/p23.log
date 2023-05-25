@@ -1,0 +1,5 @@
+﻿  p23.cpp
+F:\Advance Programming\Algorthem and solve problem\p23\p23\p23.cpp(8,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Advance Programming\Algorthem and solve problem\p23\p23\p23.cpp(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Advance Programming\Algorthem and solve problem\p23\p23\p23.cpp(6,11): warning C4101: 'Area1': unreferenced local variable
+  p23.vcxproj -> F:\Advance Programming\Algorthem and solve problem\p23\x64\Debug\p23.exe
